@@ -1,0 +1,20 @@
+final_classes:
+  - Forest
+  - Urban
+  - Water
+  - Agriculture
+
+mapping:
+  Forest: Forest
+
+  Residential: Urban
+  Industrial: Urban
+  Highway: Urban
+
+  River: Water
+  SeaLake: Water
+
+  AnnualCrop: Agriculture
+  PermanentCrop: Agriculture
+  Pasture: Agriculture
+  HerbaceousVegetation: Agriculture

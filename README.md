@@ -102,5 +102,7 @@ The final dashboard combines:
 
 This gives a complete view of accuracy, errors, and model behaviour in one image.
 
-## GitHub Repository
-https://github.com/MahimnaDarji/Satellite-Based-Land-Use-Classification.git
+### Final Dashboard Preview
+
+![Final Dashboard](https://raw.githubusercontent.com/MahimnaDarji/Satellite-Based-Land-Use-Classification/main/Outputs/final_dashboard.png)
+
